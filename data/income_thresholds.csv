@@ -1,0 +1,51 @@
+state,state_abbr,income_type,combined_income_cap,obligor_income_cap,minimum_income_threshold,self_support_reserve,currency_year,statute_citation,source
+Alabama,AL,gross,20000,,,,2024,Ala. R. Jud. Admin. Rule 32,Alabama Judicial Administration
+Alaska,AK,adjusted_gross,,11500,,,2024,Alaska R. Civ. P. 90.3,Alaska Court System
+Arizona,AZ,gross,30000,,,1215,2024,A.R.S. § 25-320 Guidelines,Arizona Supreme Court
+Arkansas,AR,gross,30000,,,,2024,Ark. Admin. Order No. 10,Arkansas Judiciary
+California,CA,net_disposable,,,1628,,2024,"Cal. Fam. Code §§ 4055, 4058",California Legislature
+Colorado,CO,adjusted_gross,30000,,,1328,2024,Colo. Rev. Stat. § 14-10-115,Colorado Legislature
+Connecticut,CT,net,17333,,,,2024,Conn. Child Support Guidelines § 46b-215a-2c,Connecticut Judicial Branch
+Delaware,DE,net,,,1398,1398,2024,Del. Fam. Ct. Civ. R. 52(c),Delaware Family Court
+Florida,FL,net,30000,,950,,2024,Fla. Stat. § 61.30,Florida Legislature
+Georgia,GA,gross,30000,,,900,2024,Ga. Code Ann. § 19-6-15,Georgia Legislature
+Hawaii,HI,net,,,1398,1398,2024,Haw. Rev. Stat. § 576D-7,Hawaii Judiciary
+Idaho,ID,gross,25000,,,,2024,Idaho Child Support Guidelines,Idaho Supreme Court
+Illinois,IL,net,,,1328,,2024,750 ILCS 5/505; 750 ILCS 5/505.2,Illinois Legislature
+Indiana,IN,gross,30000,,,,2024,Ind. Child Support Guidelines,Indiana Judiciary
+Iowa,IA,net,30000,,,,2024,Iowa Ct. R. 9.5,Iowa Judicial Branch
+Kansas,KS,gross,25000,,,,2024,Kan. Child Support Guidelines App. II,Kansas Judicial Branch
+Kentucky,KY,gross,30000,,,,2024,Ky. Rev. Stat. § 403.212,Kentucky Legislature
+Louisiana,LA,gross,40000,,1328,,2024,La. Rev. Stat. § 9:315.10–315.19,Louisiana Legislature
+Maine,ME,gross,27083,,,,2024,Me. Rev. Stat. tit. 19-A § 2006,Maine Legislature
+Maryland,MD,adjusted_gross,30000,,,,2024,Md. Code Fam. Law § 12-204,Maryland Legislature
+Massachusetts,MA,gross,40000,,,,2024,Mass. Child Support Guidelines,Massachusetts Trial Court
+Michigan,MI,net,,,,1328,2024,Mich. Child Support Formula (MCL 552.605),Michigan DHHS
+Minnesota,MN,gross,,,1328,,2024,Minn. Stat. § 518A.35,Minnesota Legislature
+Mississippi,MS,adjusted_gross,,8333,,,2024,Miss. Code Ann. § 43-19-101,Mississippi Legislature
+Missouri,MO,gross,30000,,,,2024,Mo. Sup. Ct. R. 88.01; Mo. Civ. Proc. Form 14,Missouri Courts
+Montana,MT,net,,,1398,1398,2024,Mont. Admin. R. 37.62.106,Montana DPHHS
+Nebraska,NE,gross,30000,,,1048,2024,Neb. Ct. R. § 4-203 to 4-221,Nebraska Supreme Court
+Nevada,NV,gross,28333,,1398,,2024,Nev. Rev. Stat. § 125B.070,Nevada Legislature
+New Hampshire,NH,adjusted_gross,25000,,1328,,2024,N.H. Rev. Stat. Ann. § 458-C:3,New Hampshire Legislature
+New Jersey,NJ,net,15600,,,,2024,N.J. Ct. R. 5:6A; Appendix IX-F,New Jersey Judiciary
+New Mexico,NM,gross,30000,,,,2024,N.M. Stat. Ann. § 40-4-11.1,New Mexico Legislature
+New York,NY,gross,15250,,,1398,2024,N.Y. Dom. Rel. Law § 240(1-b),New York Legislature
+North Carolina,NC,gross,25000,,1100,,2024,N.C. Child Support Guidelines,North Carolina AOC
+North Dakota,ND,net,25000,,,,2024,N.D. Admin. Code 75-02-04.1,North Dakota DHS
+Ohio,OH,gross,30000,,1100,,2024,Ohio Rev. Code § 3119.04,Ohio Legislature
+Oklahoma,OK,gross,30000,,,,2024,Okla. Stat. tit. 43 § 118E,Oklahoma Legislature
+Oregon,OR,gross,30000,,,1328,2024,Or. Admin. R. 137-050-0730,Oregon DOJ
+Pennsylvania,PA,net,30000,,,,2024,Pa. R. Civ. P. 1910.16-3,Pennsylvania Judiciary
+Rhode Island,RI,gross,25000,,,,2024,R.I. Family Court Child Support Guidelines,Rhode Island Family Court
+South Carolina,SC,gross,30000,,,,2024,S.C. Code Ann. § 63-17-470; Reg. 114-4720,South Carolina DSS
+South Dakota,SD,gross,20833,,,,2024,S.D.C.L. §§ 25-7-6.2 to 25-7-6.29,South Dakota UJS
+Tennessee,TN,adjusted_gross,30000,,,1328,2024,Tenn. Comp. R. & Regs. 1240-02-04-.04,Tennessee DHS
+Texas,TX,net_resources,,11700,,,2025,Tex. Fam. Code § 154.125,Texas Legislature
+Utah,UT,adjusted_gross,24833,,,,2024,Utah Code Ann. § 78B-12-302,Utah Legislature
+Vermont,VT,gross,,,1328,,2024,15 V.S.A. § 656–658,Vermont Legislature
+Virginia,VA,gross,42500,,,,2025,Va. Code Ann. § 20-108.2,Virginia Legislature
+Washington,WA,net,50000,,2200,,2026,Wash. Rev. Code § 26.19.020,Washington Legislature
+West Virginia,WV,adjusted_gross,27500,,,,2024,W. Va. Code § 48-13-301,West Virginia Legislature
+Wisconsin,WI,gross,,10000,,,2024,Wis. Admin. Code DCF 150.04,Wisconsin DCF
+Wyoming,WY,net,,,1328,,2024,Wyo. Stat. Ann. § 20-2-304,Wyoming Legislature

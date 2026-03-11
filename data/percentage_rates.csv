@@ -1,0 +1,261 @@
+state,state_abbr,num_children,base_percentage,income_bracket_low,income_bracket_high,notes,statute_citation,source
+Alabama,AL,1,21.0,,,Effective percentage at median combined income ($7000/mo),Ala. R. Jud. Admin. Rule 32,Alabama Judicial Administration
+Alabama,AL,2,32.0,,,Effective percentage at median combined income,Ala. R. Jud. Admin. Rule 32,Alabama Judicial Administration
+Alabama,AL,3,38.0,,,Effective percentage at median combined income,Ala. R. Jud. Admin. Rule 32,Alabama Judicial Administration
+Alabama,AL,4,42.0,,,Effective percentage at median combined income,Ala. R. Jud. Admin. Rule 32,Alabama Judicial Administration
+Alabama,AL,5,44.0,,,Effective percentage at median combined income,Ala. R. Jud. Admin. Rule 32,Alabama Judicial Administration
+Alaska,AK,1,20.0,0,138000,Primary custody; adjustable for higher income,Alaska R. Civ. P. 90.3(a),Alaska Court System
+Alaska,AK,2,27.0,0,138000,Primary custody,Alaska R. Civ. P. 90.3(a),Alaska Court System
+Alaska,AK,3,33.0,0,138000,Primary custody,Alaska R. Civ. P. 90.3(a),Alaska Court System
+Alaska,AK,4,36.0,,,Primary custody; court discretion above bracket,Alaska R. Civ. P. 90.3(a),Alaska Court System
+Alaska,AK,5,39.0,,,Primary custody,Alaska R. Civ. P. 90.3(a),Alaska Court System
+Arizona,AZ,1,19.0,,,Effective percentage at median combined income,A.R.S. § 25-320 Guidelines Schedule,Arizona Supreme Court
+Arizona,AZ,2,27.0,,,Effective percentage at median combined income,A.R.S. § 25-320 Guidelines Schedule,Arizona Supreme Court
+Arizona,AZ,3,32.0,,,Effective percentage at median combined income,A.R.S. § 25-320 Guidelines Schedule,Arizona Supreme Court
+Arizona,AZ,4,36.0,,,Effective percentage at median combined income,A.R.S. § 25-320 Guidelines Schedule,Arizona Supreme Court
+Arizona,AZ,5,38.0,,,Effective percentage at median combined income,A.R.S. § 25-320 Guidelines Schedule,Arizona Supreme Court
+Arkansas,AR,1,19.0,,,Effective percentage from schedule,Ark. Admin. Order No. 10,Arkansas Judiciary
+Arkansas,AR,2,27.0,,,Effective percentage from schedule,Ark. Admin. Order No. 10,Arkansas Judiciary
+Arkansas,AR,3,32.0,,,Effective percentage from schedule,Ark. Admin. Order No. 10,Arkansas Judiciary
+Arkansas,AR,4,36.0,,,Effective percentage from schedule,Ark. Admin. Order No. 10,Arkansas Judiciary
+Arkansas,AR,5,38.0,,,Effective percentage from schedule,Ark. Admin. Order No. 10,Arkansas Judiciary
+California,CA,1,25.0,,,Algebraic formula (K × HN); approximate effective rate,"Cal. Fam. Code §§ 4055, 4058",California Legislature
+California,CA,2,33.0,,,Approximate effective rate from formula,"Cal. Fam. Code §§ 4055, 4058",California Legislature
+California,CA,3,38.0,,,Approximate effective rate from formula,"Cal. Fam. Code §§ 4055, 4058",California Legislature
+California,CA,4,42.0,,,Approximate effective rate from formula,"Cal. Fam. Code §§ 4055, 4058",California Legislature
+California,CA,5,44.0,,,Approximate effective rate from formula,"Cal. Fam. Code §§ 4055, 4058",California Legislature
+Colorado,CO,1,20.0,,,Effective percentage at median combined income,Colo. Rev. Stat. § 14-10-115,Colorado Legislature
+Colorado,CO,2,30.0,,,Effective percentage at median combined income,Colo. Rev. Stat. § 14-10-115,Colorado Legislature
+Colorado,CO,3,36.0,,,Effective percentage at median combined income,Colo. Rev. Stat. § 14-10-115,Colorado Legislature
+Colorado,CO,4,40.0,,,Effective percentage at median combined income,Colo. Rev. Stat. § 14-10-115,Colorado Legislature
+Colorado,CO,5,42.0,,,Effective percentage at median combined income,Colo. Rev. Stat. § 14-10-115,Colorado Legislature
+Connecticut,CT,1,20.5,,,Effective percentage at median combined income,Conn. Child Support Guidelines § 46b-215a-2c,Connecticut Judicial Branch
+Connecticut,CT,2,28.0,,,Effective percentage at median combined income,Conn. Child Support Guidelines § 46b-215a-2c,Connecticut Judicial Branch
+Connecticut,CT,3,33.5,,,Effective percentage at median combined income,Conn. Child Support Guidelines § 46b-215a-2c,Connecticut Judicial Branch
+Connecticut,CT,4,38.0,,,Effective percentage at median combined income,Conn. Child Support Guidelines § 46b-215a-2c,Connecticut Judicial Branch
+Connecticut,CT,5,40.0,,,Effective percentage at median combined income,Conn. Child Support Guidelines § 46b-215a-2c,Connecticut Judicial Branch
+Delaware,DE,1,18.0,,,Melson formula; primary support + standard of living,Del. Fam. Ct. Civ. R. 52(c),Delaware Family Court
+Delaware,DE,2,27.0,,,Melson formula; combined percentage,Del. Fam. Ct. Civ. R. 52(c),Delaware Family Court
+Delaware,DE,3,33.0,,,Melson formula; combined percentage,Del. Fam. Ct. Civ. R. 52(c),Delaware Family Court
+Delaware,DE,4,37.0,,,Melson formula; combined percentage,Del. Fam. Ct. Civ. R. 52(c),Delaware Family Court
+Delaware,DE,5,39.0,,,Melson formula; combined percentage,Del. Fam. Ct. Civ. R. 52(c),Delaware Family Court
+Florida,FL,1,20.0,,,Effective percentage at median combined income,Fla. Stat. § 61.30(6),Florida Legislature
+Florida,FL,2,28.5,,,Effective percentage at median combined income,Fla. Stat. § 61.30(6),Florida Legislature
+Florida,FL,3,33.0,,,Effective percentage at median combined income,Fla. Stat. § 61.30(6),Florida Legislature
+Florida,FL,4,36.0,,,Effective percentage at median combined income,Fla. Stat. § 61.30(6),Florida Legislature
+Florida,FL,5,38.0,,,Effective percentage at median combined income,Fla. Stat. § 61.30(6),Florida Legislature
+Georgia,GA,1,23.0,,,Effective percentage from schedule at median income,Ga. Code Ann. § 19-6-15 Schedule A,Georgia Legislature
+Georgia,GA,2,30.0,,,Effective percentage from schedule,Ga. Code Ann. § 19-6-15 Schedule A,Georgia Legislature
+Georgia,GA,3,35.0,,,Effective percentage from schedule,Ga. Code Ann. § 19-6-15 Schedule A,Georgia Legislature
+Georgia,GA,4,39.0,,,Effective percentage from schedule,Ga. Code Ann. § 19-6-15 Schedule A,Georgia Legislature
+Georgia,GA,5,41.0,,,Effective percentage from schedule,Ga. Code Ann. § 19-6-15 Schedule A,Georgia Legislature
+Hawaii,HI,1,18.0,,,Melson formula; primary support + SOLA,Haw. Rev. Stat. § 576D-7,Hawaii Judiciary
+Hawaii,HI,2,27.0,,,Melson formula; combined,Haw. Rev. Stat. § 576D-7,Hawaii Judiciary
+Hawaii,HI,3,33.0,,,Melson formula; combined,Haw. Rev. Stat. § 576D-7,Hawaii Judiciary
+Hawaii,HI,4,37.0,,,Melson formula; combined,Haw. Rev. Stat. § 576D-7,Hawaii Judiciary
+Hawaii,HI,5,39.0,,,Melson formula; combined,Haw. Rev. Stat. § 576D-7,Hawaii Judiciary
+Idaho,ID,1,19.5,,,Effective percentage from schedule at median income,Idaho Child Support Guidelines,Idaho Supreme Court
+Idaho,ID,2,28.0,,,Effective percentage from schedule,Idaho Child Support Guidelines,Idaho Supreme Court
+Idaho,ID,3,33.0,,,Effective percentage from schedule,Idaho Child Support Guidelines,Idaho Supreme Court
+Idaho,ID,4,37.0,,,Effective percentage from schedule,Idaho Child Support Guidelines,Idaho Supreme Court
+Idaho,ID,5,39.0,,,Effective percentage from schedule,Idaho Child Support Guidelines,Idaho Supreme Court
+Illinois,IL,1,20.0,,,Income shares schedule effective 2017; prior was flat 20%,750 ILCS 5/505.2,Illinois Legislature
+Illinois,IL,2,28.0,,,Income shares schedule,750 ILCS 5/505.2,Illinois Legislature
+Illinois,IL,3,33.0,,,Income shares schedule,750 ILCS 5/505.2,Illinois Legislature
+Illinois,IL,4,36.0,,,Income shares schedule,750 ILCS 5/505.2,Illinois Legislature
+Illinois,IL,5,38.0,,,Income shares schedule; max 50%,750 ILCS 5/505.2,Illinois Legislature
+Indiana,IN,1,20.0,,,Effective percentage from schedule at median income,Ind. Child Support Guidelines,Indiana Judiciary
+Indiana,IN,2,28.0,,,Effective percentage from schedule,Ind. Child Support Guidelines,Indiana Judiciary
+Indiana,IN,3,33.0,,,Effective percentage from schedule,Ind. Child Support Guidelines,Indiana Judiciary
+Indiana,IN,4,36.0,,,Effective percentage from schedule,Ind. Child Support Guidelines,Indiana Judiciary
+Indiana,IN,5,38.0,,,Effective percentage from schedule,Ind. Child Support Guidelines,Indiana Judiciary
+Iowa,IA,1,22.0,,,Effective percentage from schedule at median income,Iowa Ct. R. 9.5 Schedule,Iowa Judicial Branch
+Iowa,IA,2,30.0,,,Effective percentage from schedule,Iowa Ct. R. 9.5 Schedule,Iowa Judicial Branch
+Iowa,IA,3,35.0,,,Effective percentage from schedule,Iowa Ct. R. 9.5 Schedule,Iowa Judicial Branch
+Iowa,IA,4,38.0,,,Effective percentage from schedule,Iowa Ct. R. 9.5 Schedule,Iowa Judicial Branch
+Iowa,IA,5,40.0,,,Effective percentage from schedule,Iowa Ct. R. 9.5 Schedule,Iowa Judicial Branch
+Kansas,KS,1,21.0,,,Effective percentage from schedule at median income,Kan. Child Support Guidelines App. II,Kansas Judicial Branch
+Kansas,KS,2,30.0,,,Effective percentage from schedule,Kan. Child Support Guidelines App. II,Kansas Judicial Branch
+Kansas,KS,3,35.0,,,Effective percentage from schedule,Kan. Child Support Guidelines App. II,Kansas Judicial Branch
+Kansas,KS,4,38.0,,,Effective percentage from schedule,Kan. Child Support Guidelines App. II,Kansas Judicial Branch
+Kansas,KS,5,40.0,,,Effective percentage from schedule,Kan. Child Support Guidelines App. II,Kansas Judicial Branch
+Kentucky,KY,1,21.0,,,Effective percentage from schedule at median income,Ky. Rev. Stat. § 403.212 Schedule,Kentucky Legislature
+Kentucky,KY,2,29.0,,,Effective percentage from schedule,Ky. Rev. Stat. § 403.212 Schedule,Kentucky Legislature
+Kentucky,KY,3,34.0,,,Effective percentage from schedule,Ky. Rev. Stat. § 403.212 Schedule,Kentucky Legislature
+Kentucky,KY,4,37.0,,,Effective percentage from schedule,Ky. Rev. Stat. § 403.212 Schedule,Kentucky Legislature
+Kentucky,KY,5,39.0,,,Effective percentage from schedule,Ky. Rev. Stat. § 403.212 Schedule,Kentucky Legislature
+Louisiana,LA,1,22.0,,,Effective percentage from schedule at median income,La. Rev. Stat. § 9:315.19,Louisiana Legislature
+Louisiana,LA,2,30.0,,,Effective percentage from schedule,La. Rev. Stat. § 9:315.19,Louisiana Legislature
+Louisiana,LA,3,35.0,,,Effective percentage from schedule,La. Rev. Stat. § 9:315.19,Louisiana Legislature
+Louisiana,LA,4,39.0,,,Effective percentage from schedule,La. Rev. Stat. § 9:315.19,Louisiana Legislature
+Louisiana,LA,5,41.0,,,Effective percentage from schedule,La. Rev. Stat. § 9:315.19,Louisiana Legislature
+Maine,ME,1,21.0,,,Effective percentage from schedule at median income,Me. Rev. Stat. tit. 19-A § 2006,Maine Legislature
+Maine,ME,2,29.0,,,Effective percentage from schedule,Me. Rev. Stat. tit. 19-A § 2006,Maine Legislature
+Maine,ME,3,34.0,,,Effective percentage from schedule,Me. Rev. Stat. tit. 19-A § 2006,Maine Legislature
+Maine,ME,4,37.0,,,Effective percentage from schedule,Me. Rev. Stat. tit. 19-A § 2006,Maine Legislature
+Maine,ME,5,39.0,,,Effective percentage from schedule,Me. Rev. Stat. tit. 19-A § 2006,Maine Legislature
+Maryland,MD,1,22.0,,,Effective percentage from schedule at median income,Md. Code Fam. Law § 12-204,Maryland Legislature
+Maryland,MD,2,30.0,,,Effective percentage from schedule,Md. Code Fam. Law § 12-204,Maryland Legislature
+Maryland,MD,3,34.0,,,Effective percentage from schedule,Md. Code Fam. Law § 12-204,Maryland Legislature
+Maryland,MD,4,37.0,,,Effective percentage from schedule,Md. Code Fam. Law § 12-204,Maryland Legislature
+Maryland,MD,5,39.0,,,Effective percentage from schedule,Md. Code Fam. Law § 12-204,Maryland Legislature
+Massachusetts,MA,1,23.0,,,Effective percentage from guidelines,Mass. Child Support Guidelines,Massachusetts Trial Court
+Massachusetts,MA,2,30.0,,,Effective percentage from guidelines,Mass. Child Support Guidelines,Massachusetts Trial Court
+Massachusetts,MA,3,34.0,,,Effective percentage from guidelines,Mass. Child Support Guidelines,Massachusetts Trial Court
+Massachusetts,MA,4,37.0,,,Effective percentage from guidelines,Mass. Child Support Guidelines,Massachusetts Trial Court
+Massachusetts,MA,5,39.0,,,Effective percentage from guidelines,Mass. Child Support Guidelines,Massachusetts Trial Court
+Michigan,MI,1,22.0,,,Effective percentage from formula at median income,Mich. Child Support Formula Manual,Michigan DHHS
+Michigan,MI,2,30.0,,,Effective percentage from formula,Mich. Child Support Formula Manual,Michigan DHHS
+Michigan,MI,3,35.0,,,Effective percentage from formula,Mich. Child Support Formula Manual,Michigan DHHS
+Michigan,MI,4,38.0,,,Effective percentage from formula,Mich. Child Support Formula Manual,Michigan DHHS
+Michigan,MI,5,40.0,,,Effective percentage from formula,Mich. Child Support Formula Manual,Michigan DHHS
+Minnesota,MN,1,21.0,,,Effective percentage from schedule at median income,Minn. Stat. § 518A.35 Schedule,Minnesota Legislature
+Minnesota,MN,2,29.0,,,Effective percentage from schedule,Minn. Stat. § 518A.35 Schedule,Minnesota Legislature
+Minnesota,MN,3,34.0,,,Effective percentage from schedule,Minn. Stat. § 518A.35 Schedule,Minnesota Legislature
+Minnesota,MN,4,37.0,,,Effective percentage from schedule,Minn. Stat. § 518A.35 Schedule,Minnesota Legislature
+Minnesota,MN,5,39.0,,,Effective percentage from schedule,Minn. Stat. § 518A.35 Schedule,Minnesota Legislature
+Mississippi,MS,1,14.0,,,Flat percentage of noncustodial parent's adjusted gross income,Miss. Code Ann. § 43-19-101(1),Mississippi Legislature
+Mississippi,MS,2,20.0,,,Flat percentage,Miss. Code Ann. § 43-19-101(1),Mississippi Legislature
+Mississippi,MS,3,22.0,,,Flat percentage,Miss. Code Ann. § 43-19-101(1),Mississippi Legislature
+Mississippi,MS,4,24.0,,,Flat percentage,Miss. Code Ann. § 43-19-101(1),Mississippi Legislature
+Mississippi,MS,5,26.0,,,Flat percentage; max 26% for 5+,Miss. Code Ann. § 43-19-101(1),Mississippi Legislature
+Missouri,MO,1,21.0,,,Effective percentage from Form 14 schedule at median income,Mo. Sup. Ct. R. 88.01; Form 14,Missouri Courts
+Missouri,MO,2,29.0,,,Effective percentage from schedule,Mo. Sup. Ct. R. 88.01; Form 14,Missouri Courts
+Missouri,MO,3,34.0,,,Effective percentage from schedule,Mo. Sup. Ct. R. 88.01; Form 14,Missouri Courts
+Missouri,MO,4,37.0,,,Effective percentage from schedule,Mo. Sup. Ct. R. 88.01; Form 14,Missouri Courts
+Missouri,MO,5,39.0,,,Effective percentage from schedule,Mo. Sup. Ct. R. 88.01; Form 14,Missouri Courts
+Montana,MT,1,18.0,,,Melson formula; primary support allowance + SOLA,Mont. Admin. R. 37.62.106,Montana DPHHS
+Montana,MT,2,27.0,,,Melson formula; combined,Mont. Admin. R. 37.62.106,Montana DPHHS
+Montana,MT,3,33.0,,,Melson formula; combined,Mont. Admin. R. 37.62.106,Montana DPHHS
+Montana,MT,4,37.0,,,Melson formula; combined,Mont. Admin. R. 37.62.106,Montana DPHHS
+Montana,MT,5,39.0,,,Melson formula; combined,Mont. Admin. R. 37.62.106,Montana DPHHS
+Nebraska,NE,1,21.0,,,Effective percentage from worksheet at median income,Neb. Ct. R. § 4-212,Nebraska Supreme Court
+Nebraska,NE,2,30.0,,,Effective percentage from worksheet,Neb. Ct. R. § 4-212,Nebraska Supreme Court
+Nebraska,NE,3,35.0,,,Effective percentage from worksheet,Neb. Ct. R. § 4-212,Nebraska Supreme Court
+Nebraska,NE,4,38.0,,,Effective percentage from worksheet,Neb. Ct. R. § 4-212,Nebraska Supreme Court
+Nebraska,NE,5,40.0,,,Effective percentage from worksheet,Neb. Ct. R. § 4-212,Nebraska Supreme Court
+Nevada,NV,1,16.0,0,72000,Tiered percentage of obligor's gross monthly income (first $6000/mo bracket),NAC 425.140,Nevada Legislature
+Nevada,NV,1,8.0,72001,120000,Tiered percentage ($6001-$10000/mo bracket),NAC 425.140,Nevada Legislature
+Nevada,NV,1,4.0,120001,,Tiered percentage (above $10000/mo),NAC 425.140,Nevada Legislature
+Nevada,NV,2,22.0,0,72000,Tiered percentage of obligor's gross monthly income,NAC 425.140,Nevada Legislature
+Nevada,NV,2,11.0,72001,120000,Tiered percentage,NAC 425.140,Nevada Legislature
+Nevada,NV,2,6.0,120001,,Tiered percentage,NAC 425.140,Nevada Legislature
+Nevada,NV,3,26.0,0,72000,Tiered percentage of obligor's gross monthly income,NAC 425.140,Nevada Legislature
+Nevada,NV,3,13.0,72001,120000,Tiered percentage,NAC 425.140,Nevada Legislature
+Nevada,NV,3,6.0,120001,,Tiered percentage,NAC 425.140,Nevada Legislature
+Nevada,NV,4,28.0,0,72000,Tiered percentage of obligor's gross monthly income,NAC 425.140,Nevada Legislature
+Nevada,NV,4,14.0,72001,120000,Tiered percentage,NAC 425.140,Nevada Legislature
+Nevada,NV,4,7.0,120001,,Tiered percentage,NAC 425.140,Nevada Legislature
+Nevada,NV,5,30.0,0,72000,Tiered percentage; +2% per additional child per bracket,NAC 425.140,Nevada Legislature
+Nevada,NV,5,15.0,72001,120000,Tiered percentage; +1% per additional child per bracket,NAC 425.140,Nevada Legislature
+Nevada,NV,5,7.5,120001,,Tiered percentage; +0.5% per additional child per bracket,NAC 425.140,Nevada Legislature
+New Hampshire,NH,1,22.0,,,Effective percentage from schedule at median income,N.H. Rev. Stat. Ann. § 458-C:3,New Hampshire Legislature
+New Hampshire,NH,2,30.0,,,Effective percentage from schedule,N.H. Rev. Stat. Ann. § 458-C:3,New Hampshire Legislature
+New Hampshire,NH,3,35.0,,,Effective percentage from schedule,N.H. Rev. Stat. Ann. § 458-C:3,New Hampshire Legislature
+New Hampshire,NH,4,38.0,,,Effective percentage from schedule,N.H. Rev. Stat. Ann. § 458-C:3,New Hampshire Legislature
+New Hampshire,NH,5,40.0,,,Effective percentage from schedule,N.H. Rev. Stat. Ann. § 458-C:3,New Hampshire Legislature
+New Jersey,NJ,1,22.0,,,Effective percentage from Appendix IX-F at median income,N.J. Ct. R. 5:6A; Appendix IX-F,New Jersey Judiciary
+New Jersey,NJ,2,30.0,,,Effective percentage from schedule,N.J. Ct. R. 5:6A; Appendix IX-F,New Jersey Judiciary
+New Jersey,NJ,3,34.0,,,Effective percentage from schedule,N.J. Ct. R. 5:6A; Appendix IX-F,New Jersey Judiciary
+New Jersey,NJ,4,37.0,,,Effective percentage from schedule,N.J. Ct. R. 5:6A; Appendix IX-F,New Jersey Judiciary
+New Jersey,NJ,5,39.0,,,Effective percentage from schedule,N.J. Ct. R. 5:6A; Appendix IX-F,New Jersey Judiciary
+New Mexico,NM,1,21.0,,,Effective percentage from schedule at median income,N.M. Stat. Ann. § 40-4-11.1,New Mexico Legislature
+New Mexico,NM,2,29.0,,,Effective percentage from schedule,N.M. Stat. Ann. § 40-4-11.1,New Mexico Legislature
+New Mexico,NM,3,34.0,,,Effective percentage from schedule,N.M. Stat. Ann. § 40-4-11.1,New Mexico Legislature
+New Mexico,NM,4,37.0,,,Effective percentage from schedule,N.M. Stat. Ann. § 40-4-11.1,New Mexico Legislature
+New Mexico,NM,5,39.0,,,Effective percentage from schedule,N.M. Stat. Ann. § 40-4-11.1,New Mexico Legislature
+New York,NY,1,17.0,0,183000,Statutory percentage of combined parental income,N.Y. Dom. Rel. Law § 240(1-b)(c)(2),New York Legislature
+New York,NY,2,25.0,0,183000,Statutory percentage,N.Y. Dom. Rel. Law § 240(1-b)(c)(2),New York Legislature
+New York,NY,3,29.0,0,183000,Statutory percentage,N.Y. Dom. Rel. Law § 240(1-b)(c)(2),New York Legislature
+New York,NY,4,31.0,0,183000,Statutory percentage,N.Y. Dom. Rel. Law § 240(1-b)(c)(2),New York Legislature
+New York,NY,5,35.0,0,183000,Statutory percentage; court discretion above $183k cap,N.Y. Dom. Rel. Law § 240(1-b)(c)(2),New York Legislature
+North Carolina,NC,1,20.0,,,Effective percentage from schedule at median income,N.C. Child Support Guidelines,North Carolina AOC
+North Carolina,NC,2,28.0,,,Effective percentage from schedule,N.C. Child Support Guidelines,North Carolina AOC
+North Carolina,NC,3,33.0,,,Effective percentage from schedule,N.C. Child Support Guidelines,North Carolina AOC
+North Carolina,NC,4,36.0,,,Effective percentage from schedule,N.C. Child Support Guidelines,North Carolina AOC
+North Carolina,NC,5,38.0,,,Effective percentage from schedule,N.C. Child Support Guidelines,North Carolina AOC
+North Dakota,ND,1,21.0,,,Varying percentage of obligor's net income; effective rate at median income,N.D. Admin. Code 75-02-04.1,North Dakota DHS
+North Dakota,ND,2,29.0,,,Effective percentage from schedule,N.D. Admin. Code 75-02-04.1,North Dakota DHS
+North Dakota,ND,3,34.0,,,Effective percentage from schedule,N.D. Admin. Code 75-02-04.1,North Dakota DHS
+North Dakota,ND,4,37.0,,,Effective percentage from schedule,N.D. Admin. Code 75-02-04.1,North Dakota DHS
+North Dakota,ND,5,39.0,,,Effective percentage from schedule,N.D. Admin. Code 75-02-04.1,North Dakota DHS
+Ohio,OH,1,21.0,,,Effective percentage from schedule at median income,Ohio Rev. Code § 3119.04 Schedule,Ohio Legislature
+Ohio,OH,2,29.0,,,Effective percentage from schedule,Ohio Rev. Code § 3119.04 Schedule,Ohio Legislature
+Ohio,OH,3,34.0,,,Effective percentage from schedule,Ohio Rev. Code § 3119.04 Schedule,Ohio Legislature
+Ohio,OH,4,37.0,,,Effective percentage from schedule,Ohio Rev. Code § 3119.04 Schedule,Ohio Legislature
+Ohio,OH,5,39.0,,,Effective percentage from schedule,Ohio Rev. Code § 3119.04 Schedule,Ohio Legislature
+Oklahoma,OK,1,20.0,,,Effective percentage from schedule at median income,Okla. Stat. tit. 43 § 118E Schedule,Oklahoma Legislature
+Oklahoma,OK,2,28.0,,,Effective percentage from schedule,Okla. Stat. tit. 43 § 118E Schedule,Oklahoma Legislature
+Oklahoma,OK,3,33.0,,,Effective percentage from schedule,Okla. Stat. tit. 43 § 118E Schedule,Oklahoma Legislature
+Oklahoma,OK,4,36.0,,,Effective percentage from schedule,Okla. Stat. tit. 43 § 118E Schedule,Oklahoma Legislature
+Oklahoma,OK,5,38.0,,,Effective percentage from schedule,Okla. Stat. tit. 43 § 118E Schedule,Oklahoma Legislature
+Oregon,OR,1,21.0,,,Effective percentage from schedule at median income,Or. Admin. R. 137-050-0740 Schedule,Oregon DOJ
+Oregon,OR,2,29.0,,,Effective percentage from schedule,Or. Admin. R. 137-050-0740 Schedule,Oregon DOJ
+Oregon,OR,3,34.0,,,Effective percentage from schedule,Or. Admin. R. 137-050-0740 Schedule,Oregon DOJ
+Oregon,OR,4,37.0,,,Effective percentage from schedule,Or. Admin. R. 137-050-0740 Schedule,Oregon DOJ
+Oregon,OR,5,39.0,,,Effective percentage from schedule,Or. Admin. R. 137-050-0740 Schedule,Oregon DOJ
+Pennsylvania,PA,1,22.0,,,Effective percentage from schedule at median income,Pa. R. Civ. P. 1910.16-3 Schedule,Pennsylvania Judiciary
+Pennsylvania,PA,2,30.0,,,Effective percentage from schedule,Pa. R. Civ. P. 1910.16-3 Schedule,Pennsylvania Judiciary
+Pennsylvania,PA,3,35.0,,,Effective percentage from schedule,Pa. R. Civ. P. 1910.16-3 Schedule,Pennsylvania Judiciary
+Pennsylvania,PA,4,38.0,,,Effective percentage from schedule,Pa. R. Civ. P. 1910.16-3 Schedule,Pennsylvania Judiciary
+Pennsylvania,PA,5,40.0,,,Effective percentage from schedule,Pa. R. Civ. P. 1910.16-3 Schedule,Pennsylvania Judiciary
+Rhode Island,RI,1,22.0,,,Effective percentage from schedule at median income,R.I. Family Court Child Support Guidelines,Rhode Island Family Court
+Rhode Island,RI,2,30.0,,,Effective percentage from schedule,R.I. Family Court Child Support Guidelines,Rhode Island Family Court
+Rhode Island,RI,3,34.0,,,Effective percentage from schedule,R.I. Family Court Child Support Guidelines,Rhode Island Family Court
+Rhode Island,RI,4,37.0,,,Effective percentage from schedule,R.I. Family Court Child Support Guidelines,Rhode Island Family Court
+Rhode Island,RI,5,39.0,,,Effective percentage from schedule,R.I. Family Court Child Support Guidelines,Rhode Island Family Court
+South Carolina,SC,1,21.0,,,Effective percentage from schedule at median income,S.C. Code Ann. § 63-17-470; Reg. 114-4720,South Carolina DSS
+South Carolina,SC,2,29.0,,,Effective percentage from schedule,S.C. Code Ann. § 63-17-470; Reg. 114-4720,South Carolina DSS
+South Carolina,SC,3,34.0,,,Effective percentage from schedule,S.C. Code Ann. § 63-17-470; Reg. 114-4720,South Carolina DSS
+South Carolina,SC,4,37.0,,,Effective percentage from schedule,S.C. Code Ann. § 63-17-470; Reg. 114-4720,South Carolina DSS
+South Carolina,SC,5,39.0,,,Effective percentage from schedule,S.C. Code Ann. § 63-17-470; Reg. 114-4720,South Carolina DSS
+South Dakota,SD,1,21.0,,,Effective percentage from schedule at median income,S.D.C.L. § 25-7-6.2 Schedule,South Dakota UJS
+South Dakota,SD,2,29.0,,,Effective percentage from schedule,S.D.C.L. § 25-7-6.2 Schedule,South Dakota UJS
+South Dakota,SD,3,34.0,,,Effective percentage from schedule,S.D.C.L. § 25-7-6.2 Schedule,South Dakota UJS
+South Dakota,SD,4,37.0,,,Effective percentage from schedule,S.D.C.L. § 25-7-6.2 Schedule,South Dakota UJS
+South Dakota,SD,5,39.0,,,Effective percentage from schedule,S.D.C.L. § 25-7-6.2 Schedule,South Dakota UJS
+Tennessee,TN,1,20.0,,,Effective percentage from schedule at median income,Tenn. Comp. R. & Regs. 1240-02-04-.04,Tennessee DHS
+Tennessee,TN,2,28.0,,,Effective percentage from schedule,Tenn. Comp. R. & Regs. 1240-02-04-.04,Tennessee DHS
+Tennessee,TN,3,33.0,,,Effective percentage from schedule,Tenn. Comp. R. & Regs. 1240-02-04-.04,Tennessee DHS
+Tennessee,TN,4,36.0,,,Effective percentage from schedule,Tenn. Comp. R. & Regs. 1240-02-04-.04,Tennessee DHS
+Tennessee,TN,5,38.0,,,Effective percentage from schedule,Tenn. Comp. R. & Regs. 1240-02-04-.04,Tennessee DHS
+Texas,TX,1,20.0,0,140400,Flat percentage of obligor's net resources,Tex. Fam. Code § 154.125,Texas Legislature
+Texas,TX,2,25.0,0,140400,Flat percentage,Tex. Fam. Code § 154.125,Texas Legislature
+Texas,TX,3,30.0,0,140400,Flat percentage,Tex. Fam. Code § 154.125,Texas Legislature
+Texas,TX,4,35.0,0,140400,Flat percentage,Tex. Fam. Code § 154.125,Texas Legislature
+Texas,TX,5,40.0,0,140400,Flat percentage; max 40% for 5+,Tex. Fam. Code § 154.125,Texas Legislature
+Utah,UT,1,21.0,,,Effective percentage from schedule at median income,Utah Code Ann. § 78B-12-302 Schedule,Utah Legislature
+Utah,UT,2,29.0,,,Effective percentage from schedule,Utah Code Ann. § 78B-12-302 Schedule,Utah Legislature
+Utah,UT,3,34.0,,,Effective percentage from schedule,Utah Code Ann. § 78B-12-302 Schedule,Utah Legislature
+Utah,UT,4,37.0,,,Effective percentage from schedule,Utah Code Ann. § 78B-12-302 Schedule,Utah Legislature
+Utah,UT,5,39.0,,,Effective percentage from schedule,Utah Code Ann. § 78B-12-302 Schedule,Utah Legislature
+Vermont,VT,1,21.5,,,Effective percentage from schedule at median income,15 V.S.A. § 656–658,Vermont Legislature
+Vermont,VT,2,29.5,,,Effective percentage from schedule,15 V.S.A. § 656–658,Vermont Legislature
+Vermont,VT,3,34.0,,,Effective percentage from schedule,15 V.S.A. § 656–658,Vermont Legislature
+Vermont,VT,4,37.0,,,Effective percentage from schedule,15 V.S.A. § 656–658,Vermont Legislature
+Vermont,VT,5,39.0,,,Effective percentage from schedule,15 V.S.A. § 656–658,Vermont Legislature
+Virginia,VA,1,21.0,,,Effective percentage from schedule at median income; updated July 2025,Va. Code Ann. § 20-108.2,Virginia Legislature
+Virginia,VA,2,29.0,,,Effective percentage from schedule,Va. Code Ann. § 20-108.2,Virginia Legislature
+Virginia,VA,3,34.0,,,Effective percentage from schedule,Va. Code Ann. § 20-108.2,Virginia Legislature
+Virginia,VA,4,37.0,,,Effective percentage from schedule,Va. Code Ann. § 20-108.2,Virginia Legislature
+Virginia,VA,5,39.0,,,Effective percentage from schedule,Va. Code Ann. § 20-108.2,Virginia Legislature
+Washington,WA,1,20.0,,,Effective percentage from schedule; new table effective Jan 2026,Wash. Rev. Code § 26.19.020,Washington Legislature
+Washington,WA,2,28.0,,,Effective percentage from schedule,Wash. Rev. Code § 26.19.020,Washington Legislature
+Washington,WA,3,33.0,,,Effective percentage from schedule,Wash. Rev. Code § 26.19.020,Washington Legislature
+Washington,WA,4,36.0,,,Effective percentage from schedule,Wash. Rev. Code § 26.19.020,Washington Legislature
+Washington,WA,5,38.0,,,Effective percentage from schedule,Wash. Rev. Code § 26.19.020,Washington Legislature
+West Virginia,WV,1,22.0,,,Effective percentage from schedule at median income,W. Va. Code § 48-13-301,West Virginia Legislature
+West Virginia,WV,2,30.0,,,Effective percentage from schedule,W. Va. Code § 48-13-301,West Virginia Legislature
+West Virginia,WV,3,35.0,,,Effective percentage from schedule,W. Va. Code § 48-13-301,West Virginia Legislature
+West Virginia,WV,4,38.0,,,Effective percentage from schedule,W. Va. Code § 48-13-301,West Virginia Legislature
+West Virginia,WV,5,40.0,,,Effective percentage from schedule,W. Va. Code § 48-13-301,West Virginia Legislature
+Wisconsin,WI,1,17.0,,,Flat percentage of obligor's gross income,Wis. Admin. Code DCF 150.03(1),Wisconsin DCF
+Wisconsin,WI,2,25.0,,,Flat percentage,Wis. Admin. Code DCF 150.03(1),Wisconsin DCF
+Wisconsin,WI,3,29.0,,,Flat percentage,Wis. Admin. Code DCF 150.03(1),Wisconsin DCF
+Wisconsin,WI,4,31.0,,,Flat percentage,Wis. Admin. Code DCF 150.03(1),Wisconsin DCF
+Wisconsin,WI,5,34.0,,,Flat percentage; max 34% for 5+,Wis. Admin. Code DCF 150.03(1),Wisconsin DCF
+Wyoming,WY,1,20.0,,,Effective percentage from schedule at median income,Wyo. Stat. Ann. § 20-2-304,Wyoming Legislature
+Wyoming,WY,2,28.0,,,Effective percentage from schedule,Wyo. Stat. Ann. § 20-2-304,Wyoming Legislature
+Wyoming,WY,3,33.0,,,Effective percentage from schedule,Wyo. Stat. Ann. § 20-2-304,Wyoming Legislature
+Wyoming,WY,4,36.0,,,Effective percentage from schedule,Wyo. Stat. Ann. § 20-2-304,Wyoming Legislature
+Wyoming,WY,5,38.0,,,Effective percentage from schedule,Wyo. Stat. Ann. § 20-2-304,Wyoming Legislature

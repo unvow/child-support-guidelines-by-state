@@ -1,0 +1,51 @@
+state,state_abbr,minimum_monthly_amount,minimum_type,notes,statute_citation,source
+Alabama,AL,50,statutory_minimum,Minimum $50/month when obligor income is at or below poverty level,Ala. R. Jud. Admin. R. 32(C)(1),https://judicial.alabama.gov/docs/library/rules/ja32.pdf
+Alaska,AK,50,statutory_minimum,Minimum support order $50/month for low-income obligors,Alaska R. Civ. P. 90.3(c)(3),https://courts.alaska.gov/rules/docs/civ90-3.pdf
+Arizona,AZ,50,presumptive_minimum,$50/month minimum when obligor income at or below self-support reserve,A.R.S. § 25-320 Guidelines § 17,https://www.azcourts.gov/familylaw/Child-Support-Guidelines
+Arkansas,AR,100,statutory_minimum,Minimum order of $100/month per Administrative Order No. 10,Ark. Admin. Order No. 10 § II(D),https://www.arcourts.gov/content/administrative-order-10-arkansas-child-support-guidelines
+California,CA,50,statutory_minimum,Minimum $50/month for very low income obligors; court discretion below,Cal. Fam. Code § 4055(b)(7),https://leginfo.legislature.ca.gov/faces/codes_displayText.xhtml?lawCode=FAM&division=9.&part=2.&chapter=2.&article=2.
+Colorado,CO,50,statutory_minimum,Minimum $50/month for low-income obligors below self-support reserve,C.R.S. § 14-10-115(7)(b.5),https://law.justia.com/codes/colorado/title-14/dissolution-of-marriage-parental-responsibilities/article-10/section-14-10-115/
+Connecticut,CT,50,self_support_reserve_based,$50/month minimum; self-support reserve protects obligor income below poverty,Conn. Child Support Guidelines § 46b-215a-2c(k),https://www.jud.ct.gov/publications/childsupport/csguidelines.pdf
+Delaware,DE,,self_support_reserve_based,No fixed minimum; Melson formula ensures self-support reserve before calculating obligation,Del. Fam. Ct. Civ. R. 503,https://courts.delaware.gov/rules/
+Florida,FL,50,presumptive_minimum,$50/month presumptive minimum for very low income obligors,Fla. Stat. § 61.30(11)(a)(2),https://www.flsenate.gov/Laws/Statutes/2025/61.30
+Georgia,GA,75,statutory_minimum,$75/month minimum when obligor at or below poverty level,O.C.G.A. § 19-6-15(f)(5),https://law.justia.com/codes/georgia/title-19/chapter-6/section-19-6-15/
+Hawaii,HI,,self_support_reserve_based,No fixed minimum dollar amount; Melson formula protects self-support reserve first,Haw. Rev. Stat. § 576D-7(a),https://www.courts.state.hi.us/wp-content/uploads/2020/10/Child_Support_Guidelines_2024.pdf
+Idaho,ID,50,statutory_minimum,$50/month minimum support obligation,Idaho Child Support Guidelines § 6(a),https://isc.idaho.gov/irflp120
+Illinois,IL,40,statutory_minimum,$40/month minimum for low-income obligors,750 ILCS 5/505.2(b)(5),https://hfs.illinois.gov/childsupport/parents/incomeshares.html
+Indiana,IN,50,statutory_minimum,Minimum weekly obligation of approximately $12/week ($50/month),Ind. Child Support Guidelines § 3(A)(1),https://rules.incourts.gov/Content/child-support/default.htm
+Iowa,IA,,judicial_discretion,No statutory minimum; court sets amount based on ability to pay,Iowa Ct. R. 9.4(3),https://www.legis.iowa.gov/docs/ACO/CourtRulesChapter/9.pdf
+Kansas,KS,50,statutory_minimum,$50/month minimum unless obligor income is zero,Kan. Child Support Guidelines § II.A,https://kscourts.gov/About-the-Courts/Programs/Child-Support-Guidelines
+Kentucky,KY,60,statutory_minimum,$60/month minimum support order for low-income obligors,Ky. Rev. Stat. § 403.212(7),https://apps.legislature.ky.gov/law/Statutes/statute.aspx?id=55832
+Louisiana,LA,100,statutory_minimum,$100/month presumptive minimum support obligation,La. Rev. Stat. § 9:315.14,https://law.justia.com/codes/louisiana/revised-statutes/title-9/rs-9-315-1/
+Maine,ME,,judicial_discretion,No statutory minimum; court considers ability to pay,Me. Rev. Stat. tit. 19-A § 2006(2),https://legislature.maine.gov/statutes/19-a/title19-Ach63sec0.html
+Maryland,MD,50,statutory_minimum,$50/month minimum when guidelines calculation results in lower amount,Md. Code Fam. Law § 12-204(n),https://mgaleg.maryland.gov/mgawebsite/Laws/StatuteText?article=gfl&section=12-204
+Massachusetts,MA,25,statutory_minimum,$25/week (~$108/month) minimum for obligors with minimal income,Mass. Child Support Guidelines § II.B,https://www.mass.gov/resource/2025-child-support-guidelines
+Michigan,MI,,self_support_reserve_based,No fixed minimum; formula protects self-support reserve (130% FPL); obligation may be $0 for very low income,Mich. Child Support Formula § 2.01(D),https://www.courts.michigan.gov/4a7a53/siteassets/court-administration/standardsguidelines/foc/2025mcsf.pdf
+Minnesota,MN,50,statutory_minimum,$50/month minimum for obligors with income at or below 120% FPL,Minn. Stat. § 518A.35(3),https://www.revisor.mn.gov/statutes/cite/518A.35
+Mississippi,MS,,judicial_discretion,No statutory minimum; court sets amount based on ability to pay under percentage model,Miss. Code § 43-19-101(4),https://law.justia.com/codes/mississippi/title-43/chapter-19/child-support-award-guidelines/section-43-19-101/
+Missouri,MO,50,presumptive_minimum,$50/month presumptive minimum per Form 14 instructions,Mo. Sup. Ct. R. 88.01 Form 14 Directions Line 1,https://www.courts.mo.gov/page.jsp?id=199857
+Montana,MT,,self_support_reserve_based,No fixed minimum; Melson formula self-support reserve protects basic needs before obligation calculated,Mont. Admin. R. 37.62.106(2),https://dphhs.mt.gov/cssd/services/Guidelines
+Nebraska,NE,50,statutory_minimum,$50/month minimum support obligation,Neb. Ct. R. § 4-208,https://nebraskajudicial.gov/supreme-court-rules/chapter-4-children-and-families/article-2-child-support-guidelines
+Nevada,NV,100,statutory_minimum,$100/month minimum support order per NRS 125B.070,Nev. Rev. Stat. § 125B.070(2),https://www.leg.state.nv.us/nac/NAC-425.html
+New Hampshire,NH,50,statutory_minimum,$50/month minimum obligation for low-income obligors,N.H. Rev. Stat. § 458-C:3(III),https://gc.nh.gov/rsa/html/xliii/458-c/458-c-mrg.htm
+New Jersey,NJ,,judicial_discretion,No fixed minimum; self-support reserve (105% FPL) protects obligor; obligation may be $0,N.J. Ct. R. 5:6A App. IX-A § 11,https://www.njcourts.gov/glossary/new-jersey-child-support-guidelines
+New Mexico,NM,50,statutory_minimum,$50/month minimum when obligor income is below poverty level,N.M. Stat. § 40-4-11.1(D)(2),https://law.justia.com/codes/new-mexico/chapter-40/article-4/section-40-4-11-1/
+New York,NY,50,statutory_minimum,$50/month minimum for low-income obligors per statute,$50 minimum per DRL § 240(1-b)(d),https://codes.findlaw.com/ny/domestic-relations-law/dom-sect-240/
+North Carolina,NC,50,statutory_minimum,$50/month minimum support obligation per guidelines,NC Child Support Guidelines § III,https://www.nccourts.gov/documents/forms/north-carolina-child-support-guidelines
+North Dakota,ND,50,statutory_minimum,$50/month minimum for obligors with income at or below 125% FPL,N.D. Admin. Code § 75-02-04.1-07(9),https://www.hhs.nd.gov/childsupport/partners/lawyers/child-support-guidelines/current-child-support-guidelines
+Ohio,OH,50,statutory_minimum,$50/month minimum child support order,Ohio Rev. Code § 3119.06,https://codes.ohio.gov/ohio-revised-code/chapter-3119
+Oklahoma,OK,50,statutory_minimum,$50/month minimum obligation per guidelines schedule,Okla. Stat. tit. 43 § 118E,https://law.justia.com/codes/oklahoma/title-43/section-43-118/
+Oregon,OR,50,statutory_minimum,$50/month minimum presumptive support obligation,Or. Admin. R. 137-050-0745(1),https://www.doj.state.or.us/child-support/calculators-laws/child-support-laws-and-rules/child-support-guideline-rules-137-050/
+Pennsylvania,PA,,judicial_discretion,No statutory minimum; court considers income and ability to pay; unreduced for low income,231 Pa. Code R. 1910.16-2(e),https://www.pacodeandbulletin.gov/Display/pacode?file=/secure/pacode/data/231/chapter1910/s1910.16-1.html
+Rhode Island,RI,,judicial_discretion,No statutory minimum; court sets amount based on ability to pay,R.I. Family Court Guidelines § II,https://ocss.ri.gov/attorney-info/child-support-guidelines
+South Carolina,SC,100,presumptive_minimum,$100/month minimum per guidelines for low-income obligors,S.C. Code Regs. 114-4720(A)(3),https://dss.sc.gov/media/tarlq4ar/2024-child-support-guidelines-booklet-final.pdf
+South Dakota,SD,,judicial_discretion,No statutory minimum; court considers ability to pay,S.D.C.L. § 25-7-6.2,https://dss.sd.gov/childsupport/obligationsdetermined.aspx
+Tennessee,TN,100,statutory_minimum,$100/month minimum for low-income obligors (below poverty line),Tenn. Comp. R. & Regs. 1240-02-04-.04(3),https://publications.tnsosfiles.com/rules/1240/1240-02/1240-02-04.20211001.pdf
+Texas,TX,50,statutory_minimum,Court may order minimum $50/month for very low income obligors,Tex. Fam. Code § 154.125(b),https://statutes.capitol.texas.gov/Docs/FA/htm/FA.154.htm
+Utah,UT,30,statutory_minimum,$30/month minimum per child when obligor income is below poverty level,Utah Code § 78B-12-302(8),https://le.utah.gov/xcode/Title78B/Chapter12/78B-12.html
+Vermont,VT,50,statutory_minimum,$50/month minimum support obligation for low-income obligors,15 V.S.A. § 656(a),https://legislature.vermont.gov/statutes/section/15/011/00656
+Virginia,VA,65,statutory_minimum,$65/month minimum obligation per guidelines schedule,Va. Code § 20-108.2(B),https://law.lis.virginia.gov/vacode/title20/chapter6/section20-108.2/
+Washington,WA,50,statutory_minimum,$50/month per child minimum obligation per revised schedule (eff. Jan 2026),Wash. Rev. Code § 26.19.020,https://app.leg.wa.gov/rcw/default.aspx?cite=26.19&full=true
+West Virginia,WV,50,statutory_minimum,$50/month minimum per guidelines,W. Va. Code § 48-13-301,https://code.wvlegislature.gov/48-13/
+Wisconsin,WI,,judicial_discretion,No fixed minimum; low-income payers (below 150% FPL) have reduced percentage applied,Wis. Admin. Code DCF 150.04(1)(b),https://docs.legis.wisconsin.gov/code/admin_code/dcf/101_199/150
+Wyoming,WY,50,statutory_minimum,$50/month minimum when obligor income is below self-support reserve,Wyo. Stat. § 20-2-304(a),https://law.justia.com/codes/wyoming/title-20/chapter-2/article-3/
